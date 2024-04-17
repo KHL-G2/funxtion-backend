@@ -1,13 +1,13 @@
-package com.kh.webtoon;
+package com.kh.funxtion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebtoonApplication {
+public class FunxtionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebtoonApplication.class, args);
+		SpringApplication.run(FunxtionApplication.class, args);
 	}
 
 }

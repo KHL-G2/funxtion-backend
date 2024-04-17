@@ -1,10 +1,10 @@
-package com.kh.webtoon;
+package com.kh.funxtion;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WebtoonApplicationTests {
+class FunxtionApplicationTests {
 
 	@Test
 	void contextLoads() {
